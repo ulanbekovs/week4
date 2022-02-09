@@ -108,7 +108,3 @@
 # print(s)
 
 
-
-name = ("всем привет")
-print(name)
-
