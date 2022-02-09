@@ -108,5 +108,7 @@
 # print(s)
 
 
-name = ("hello world")
+
+name = ("всем привет")
 print(name)
+
