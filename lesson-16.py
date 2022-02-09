@@ -108,5 +108,5 @@
 # print(s)
 
 
-def add(x, y):
-    return x + y
+name = ("hello world")
+print(name)
